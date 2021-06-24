@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="stylesheet.css">
+    </head>
+<body>
+<section id="service">
+ <div class="title-text">
+    <p>Services</p>
+    <h1>We Provide Best</h1>
+ </div>
+ <div class="service-box">
+     <div class="single-service">
+         <img src="images/onl.jpg">
+         <div class="overlay"></div>
+         <div class="service-des">
+             <h3>Online Classes</h3>
+             <hr>
+             <p>Drawing</p>
+             <p>Canvas</p>
+             <p>Lamasa</p>
+             <p>Handicraft</p>
+             <p>Frames</p>
+         </div>
+     </div>
+     <div class="single-service">
+        <img src="images/gif2.jpg">
+        <div class="overlay"></div>
+        <div class="service-des">
+            <h3>Gifts</h3>
+            <hr>
+            <p>Frames</p>
+            <p>Baskets</p>
+            <p>Kitchens</p>
+            <p>Accessiors</p>
+        </div>
+     </div>
+     <div class="single-service">
+        <img src="images/canvas.jpeg">
+        <div class="overlay"></div>
+        <div class="service-des">
+            <h3>Canvas Paintaings</h3>
+            <hr>
+            <p>Coffee Canvas</p>
+            <p>Printed Canvas</p>
+            <p>Water-resisted Canvas</p>
+            <p>Waterproof Canvas</p>
+            <p>Waxed Canvas</p>
+        </div>
+     </div>
+     <div class="single-service">
+        <img src="images/lamasa.jpg">
+        <div class="overlay"></div>
+        <div class="service-des">
+            <h3>Lamasa Paintaings</h3>
+            <hr>
+            <p>Lamasa Frames</p>
+            <p>Lamasa Pots</p>
+            <p>Lamasa Braslets</p>
+            <p>Lamasa Accessiors</p>
+            <p>Lamasa Kitchens</p>
+        </div>
+     </div>
+ </div>
+</section>
+
+<section id="testimonial">
+    <div class="title-text">
+        <p>TESTIMONIAL</p>
+        <h1>What Our Client Says</h1>
+     </div>
+     <div class="testimonial-row">
+         <div class="testimonial-col">
+             <div class="user">
+                 <img src="images/canvas.jpeg">
+                 <div class="user-info">
+                     <h5>_dhwani_20</h5>
+                     
+                 </div>
+             </div> 
+             <p>I really appreciate you as a teacher as well as an artist. I've had lots of workshops with many different people - some of them quite famous. But you have been the best at actually teaching as opposed to demonstrating or having students copy exactly what you are doing."</p>
+         </div>
+         <div class="testimonial-col">
+            <div class="user">
+                <img src="images/canvas.jpeg">
+                <div class="user-info">
+                    <h5>amp09._</h5>
+                </div>
+            </div>
+            <p>I can't remember enjoying an art-related event so much. You are a gifted teacher, always ready when I hit a wall. I loved your demonstrations... How nice, too that we were all so compatible. Thank you, thank you!</p>
+         </div>
+         <div class="testimonial-col">
+            <div class="user">
+                <img src="images/canvas.jpeg">
+                <div class="user-info">
+                    <h5>dishapatni31</h5>
+                    
+                </div>
+            </div>
+            <p>I really like the way you pioneer to teach students. I was just thinking about to decorate my room with creative things and i saw your works on instagram stories, they are incredible and I like it a lot. I really appreciate your hardwork and hope that success touches your feet.</p>
+        </div>
+     
+
+</section>
+
+<!--------footer---->
+
+<section id="footer">
+    <img src="images/arts.jpg" class="footer-img">
+    <div class="title-text">
+        <p>Contact</p>
+        <h1>Visit us Today</h1>
+     </div>
+     <div class="footer-row">
+         <div class="footer-left">
+             <h1>Opening Hours</h1>
+             <p><i class="fa fa-clock-o"></i>Monday to Friday - 9am to 9pm</p>
+             <p><i class="fa fa-clock-o"></i>Saturday - 8am to 1pm</p>
+             <p><i class="fa fa-clock-o"></i>Sunday - Closed</p>
+         </div>
+         <div class="footer-right">
+             <h1>Get in Touch</h1>
+             <p>Address<i class="fa fa-map-marker"></i></p>
+             <p>email id <i class="fa fa-paper-plane"></i></p>
+             <p>Mobile Number - +91 98235986000<i class="fa fa-phone"></p>
+         </div>
+
+
+    </div>
+    <div class="social-links">
+        <i class="fa fa-facebook"></i>
+        <i class="fa fa-instagram"></i>
+        <i class="fa fa-twitter"></i>
+    </div>
+
+</section>
+</body>
+</html>
